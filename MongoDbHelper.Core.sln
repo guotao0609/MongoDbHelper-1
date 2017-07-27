@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbHelper.Core", "MongoDbHelper.Core\MongoDbHelper.Core.csproj", "{BD9A1B7B-B781-4FB6-97CF-40BCF47A2007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbHelper.Core.UnitTest", "MongoDbHelper.Core.UnitTest\MongoDbHelper.Core.UnitTest.csproj", "{B2E203C5-E084-4CAF-9A91-1CDAF40C3F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbHelper.Core.Common", "MongoDbHelper.Core.Common\MongoDbHelper.Core.Common.csproj", "{21BAEBA5-626B-4499-B5C8-61FACD424534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD9A1B7B-B781-4FB6-97CF-40BCF47A2007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9A1B7B-B781-4FB6-97CF-40BCF47A2007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9A1B7B-B781-4FB6-97CF-40BCF47A2007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9A1B7B-B781-4FB6-97CF-40BCF47A2007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E203C5-E084-4CAF-9A91-1CDAF40C3F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E203C5-E084-4CAF-9A91-1CDAF40C3F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E203C5-E084-4CAF-9A91-1CDAF40C3F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E203C5-E084-4CAF-9A91-1CDAF40C3F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BAEBA5-626B-4499-B5C8-61FACD424534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BAEBA5-626B-4499-B5C8-61FACD424534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BAEBA5-626B-4499-B5C8-61FACD424534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BAEBA5-626B-4499-B5C8-61FACD424534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

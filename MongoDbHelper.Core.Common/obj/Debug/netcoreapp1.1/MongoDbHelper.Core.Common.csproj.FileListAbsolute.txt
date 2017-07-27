@@ -1,0 +1,14 @@
+E:\MongoDbHelper\MongoDbHelper.Core\MongoDbHelper.Core.Common\bin\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.deps.json
+E:\MongoDbHelper\MongoDbHelper.Core\MongoDbHelper.Core.Common\bin\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.dll
+E:\MongoDbHelper\MongoDbHelper.Core\MongoDbHelper.Core.Common\obj\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.AssemblyInfo.cs
+E:\MongoDbHelper\MongoDbHelper.Core\MongoDbHelper.Core.Common\bin\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.pdb
+E:\MongoDbHelper\MongoDbHelper.Core\MongoDbHelper.Core.Common\obj\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.dll
+E:\MongoDbHelper\MongoDbHelper.Core\MongoDbHelper.Core.Common\obj\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.pdb
+E:\MongoDbHelper\MongoDbHelper.Core\MongoDbHelper.Core.Common\obj\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.csprojResolveAssemblyReference.cache
+E:\MongoDbHelper\MongoDbHelper.Core.Common\bin\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.deps.json
+E:\MongoDbHelper\MongoDbHelper.Core.Common\bin\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.dll
+E:\MongoDbHelper\MongoDbHelper.Core.Common\bin\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.pdb
+E:\MongoDbHelper\MongoDbHelper.Core.Common\obj\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.AssemblyInfo.cs
+E:\MongoDbHelper\MongoDbHelper.Core.Common\obj\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.dll
+E:\MongoDbHelper\MongoDbHelper.Core.Common\obj\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.pdb
+E:\MongoDbHelper\MongoDbHelper.Core.Common\obj\Debug\netcoreapp1.1\MongoDbHelper.Core.Common.csprojResolveAssemblyReference.cache
