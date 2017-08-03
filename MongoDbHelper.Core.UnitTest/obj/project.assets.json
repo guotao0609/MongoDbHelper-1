@@ -9103,10 +9103,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MongoDbHelper\\MongoDbHelper.Core.UnitTest\\MongoDbHelper.Core.UnitTest.csproj",
+      "projectUniqueName": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core.UnitTest\\MongoDbHelper.Core.UnitTest.csproj",
       "projectName": "MongoDbHelper.Core.UnitTest",
-      "projectPath": "E:\\MongoDbHelper\\MongoDbHelper.Core.UnitTest\\MongoDbHelper.Core.UnitTest.csproj",
-      "outputPath": "E:\\MongoDbHelper\\MongoDbHelper.Core.UnitTest\\obj\\",
+      "projectPath": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core.UnitTest\\MongoDbHelper.Core.UnitTest.csproj",
+      "outputPath": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -9114,8 +9114,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "E:\\MongoDbHelper\\MongoDbHelper.Core\\MongoDbHelper.Core.csproj": {
-              "projectPath": "E:\\MongoDbHelper\\MongoDbHelper.Core\\MongoDbHelper.Core.csproj"
+            "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core\\MongoDbHelper.Core.csproj": {
+              "projectPath": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core\\MongoDbHelper.Core.csproj"
             }
           }
         }

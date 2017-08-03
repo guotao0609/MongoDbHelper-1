@@ -7840,10 +7840,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MongoDbHelper\\MongoDbHelper.Core.Common\\MongoDbHelper.Core.Common.csproj",
+      "projectUniqueName": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core.Common\\MongoDbHelper.Core.Common.csproj",
       "projectName": "MongoDbHelper.Core.Common",
-      "projectPath": "E:\\MongoDbHelper\\MongoDbHelper.Core.Common\\MongoDbHelper.Core.Common.csproj",
-      "outputPath": "E:\\MongoDbHelper\\MongoDbHelper.Core.Common\\obj\\",
+      "projectPath": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core.Common\\MongoDbHelper.Core.Common.csproj",
+      "outputPath": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core.Common\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -8079,10 +8079,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MongoDbHelper\\MongoDbHelper.Core\\MongoDbHelper.Core.csproj",
+      "projectUniqueName": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core\\MongoDbHelper.Core.csproj",
       "projectName": "MongoDbHelper.Core",
-      "projectPath": "E:\\MongoDbHelper\\MongoDbHelper.Core\\MongoDbHelper.Core.csproj",
-      "outputPath": "E:\\MongoDbHelper\\MongoDbHelper.Core\\obj\\",
+      "projectPath": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core\\MongoDbHelper.Core.csproj",
+      "outputPath": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8090,8 +8090,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "E:\\MongoDbHelper\\MongoDbHelper.Core.Common\\MongoDbHelper.Core.Common.csproj": {
-              "projectPath": "E:\\MongoDbHelper\\MongoDbHelper.Core.Common\\MongoDbHelper.Core.Common.csproj"
+            "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core.Common\\MongoDbHelper.Core.Common.csproj": {
+              "projectPath": "E:\\github.com\\MongoDbHelper\\MongoDbHelper.Core.Common\\MongoDbHelper.Core.Common.csproj"
             }
           }
         }
