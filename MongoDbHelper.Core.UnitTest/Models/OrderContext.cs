@@ -9,9 +9,12 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace MongoDbHelper.Core.UnitTest.Models
 {
-    [BsonIgnoreExtraElements]
+
     public class OrderContext
     {
+        [BsonId]
+        public ObjectId Id { get; set; }
+
         /// <summary>
         /// 工单名称
         /// </summary>
